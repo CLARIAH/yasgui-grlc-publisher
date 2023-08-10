@@ -12,5 +12,13 @@ In the current setting of the docker compose file the application will run on ht
 
 ---
 
+- Yasgui SPARQL editor (Triply)
+  1. [Documentation](https://triply.cc/docs/yasgui/)
+  2. [Editor](https://yasgui.triply.cc/)
+- GRLC
+  1. [Homepage](https://grlc.io/)
+  2. [Code and tutorial](https://github.com/CLARIAH/grlc/tree/dev#decorator-syntax)
+  
+- 
 
 
