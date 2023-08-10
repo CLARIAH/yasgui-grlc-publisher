@@ -18,7 +18,5 @@ In the current setting of the docker compose file the application will run on ht
 - GRLC
   1. [Homepage](https://grlc.io/)
   2. [Code and tutorial](https://github.com/CLARIAH/grlc/tree/dev#decorator-syntax)
-  
-- 
 
 
