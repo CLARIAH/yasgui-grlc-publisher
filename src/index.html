@@ -1,0 +1,26 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="css/yasapp.css" />
+    <link href="js/triply/yasgui.min.css" rel="stylesheet" type="text/css" />
+    <script src="js/triply/yasgui.min.js"></script>
+    <script type="module">
+        import { Octokit } from "https://esm.sh/octokit";
+        document.client = null;
+
+        document.inst = function(key) {
+            document.client = new Octokit({auth: key});
+        }
+    </script>
+    <script src="js/publisher.js"></script>
+    <title>Yasgui HuC Plugins</title>
+</head>
+<body>
+<div id="yasgui"></div>
+<script>
+    Yasr.registerPlugin("Publisher", Publisher);
+    const yasgui = new Yasgui(document.getElementById("yasgui"), {"pluginOrder": ["response", "table", "Publisher"], "defaultPlugin": "response"});
+</script>
+</body>
+</html>
