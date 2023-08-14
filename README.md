@@ -1,5 +1,5 @@
 # yasgui-grlc-publisher
-### Yasgui plugin voor saving SPARQL queries to Github, for later use in grlc.
+### Yasgui plugin voor saving SPARQL queries to Github with grlc metadata tags
 
 #### Run locally (with Docker installed)
 
