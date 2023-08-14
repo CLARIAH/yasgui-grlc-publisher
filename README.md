@@ -1,7 +1,7 @@
 # yasgui-grlc-publisher
 ### Yasgui plugin voor saving SPARQL queries to Github with grlc metadata tags
 
-#### Run locally (with Docker installed)
+#### Run locally (with Docker installed) (more detailed instructions below)
 
 ---
     docker compose up
