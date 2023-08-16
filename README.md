@@ -21,7 +21,7 @@ In the current setting of the docker compose file the application will run on ht
   2. [Code and tutorial](https://github.com/CLARIAH/grlc/tree/dev#decorator-syntax)
 
 
-#### Howto Install
+#### How to install
 
 ---
 1. [Download and install](https://www.docker.com/) docker for your operating system (e.g. Windows)
@@ -37,6 +37,8 @@ In the current setting of the docker compose file the application will run on ht
 11. Next click publish and wait for the query and metadata to be stored.
 12. Once done, you see a link to grlc, where you can see your query and execute it. Obviously, you can also check the git repo to see the query enriched with grlc metadata.
 
+#### Thank you
 
-
+---
+We are grateful to the Dutch population who funded this research via the [NWO Open Science Fund round 2020/2021](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants) #203.001.219
 
